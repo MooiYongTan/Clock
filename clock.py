@@ -1,3 +1,6 @@
+# Install pygame before Run
+# Open Terminal, Type - pip install pygame
+
 from turtle import Screen
 import pygame
 import math
